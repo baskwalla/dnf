@@ -1,5 +1,5 @@
 function sum(x: number, y: number) {
-  let sum = x + y;
+  return x + y;
 }
 
 export default sum;
